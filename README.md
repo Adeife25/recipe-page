@@ -34,4 +34,4 @@ Enhancing user experience through design
 
 🚀 Live Preview
 👉 Click here to view Recipe Page
-https://github.com/yourusername/recipe-pag
+https://adeife25.github.io/recipe-page/
